@@ -1,11 +1,5 @@
 # Project 3: Around The U.S.
 
-### Overview
-
-- Intro
-- Figma
-- Images
-
 ### Introduction
 
 "Project 3: Around the U.S." is a web design project showcasing the beauty of various locations across the United States through an engaging, responsive photo gallery. The layout is designed with CSS Grid and Flexbox for flexible and efficient arrangement of elements. 
