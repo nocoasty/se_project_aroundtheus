@@ -12,23 +12,23 @@
 
 ### Features
 
-Responsive design for optimal viewing on devices ranging from mobile phones to desktop computers.
-Interactive photo cards with titles and like buttons.
-Clean and structured code adhering to BEM (Block Element Modifier) methodology.
-Utilizes modern web technologies including HTML5, CSS3, and Normalize.css for cross-browser compatibility.
+Responsive design for optimal viewing on devices ranging from mobile phones to desktop computers. <br>
+Interactive photo cards with titles and like buttons.<br>
+Clean and structured code adhering to BEM (Block Element Modifier) methodology.<br>
+Utilizes modern web technologies including HTML5, CSS3, and Normalize.css for cross-browser compatibility.<br>
 
 ### Languages and Methods Utilized
 
-HTML5
-CSS3
-Normalize.css
-BEM Methodology
-Responsive Web Design
+HTML5<br>
+CSS3<br>
+Normalize.css<br>
+BEM Methodology<br>
+Responsive Web Design<br>
 
 ### Usage
 
-Browse the gallery of photos.
-Click the like button on any photo to interact with it.
+Browse the gallery of photos.<br>
+Click the like button on any photo to interact with it.<br>
 Enjoy responsive design that adapts to different screen sizes.
 
 ### Directory Structure
@@ -65,7 +65,7 @@ Enjoy responsive design that adapts to different screen sizes.
 
 ### Content Brief via Figma
 
-Unlike prior projects and sprints, there were no instructions outside of a brief in Figma. Utilizing text properties, color properties, element and object dimensions, and margins I constructed this responsive website.
+Unlike prior projects and sprints, there were no instructions outside of a brief in Figma. Utilizing text properties, color properties, element and object dimensions, and margins I constructed this responsive website.<br><br>
 
 Buttons have been given hover and active properties to make the entire site feel more interactive and responsive. I have also included `aria-label` tags for each button to make the page more accessible.
 
