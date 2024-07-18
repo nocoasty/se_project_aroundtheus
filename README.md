@@ -8,28 +8,28 @@
 
 ### Introduction
 
-"Project 3: Around the U.S." is a web design project showcasing the beauty of various locations across the United States through an engaging, responsive photo gallery. This project utilizes Grid and Flex .
+"Project 3: Around the U.S." is a web design project showcasing the beauty of various locations across the United States through an engaging, responsive photo gallery. The layout is designed with CSS Grid and Flexbox for flexible and efficient arrangement of elements. 
 
 ### Features
 
-Responsive design for optimal viewing on devices ranging from mobile phones to desktop computers. <br>
-Interactive photo cards with titles and like buttons.<br>
-Clean and structured code adhering to BEM (Block Element Modifier) methodology.<br>
-Utilizes modern web technologies including HTML5, CSS3, and Normalize.css for cross-browser compatibility.<br>
+- Responsive design for optimal viewing on devices ranging from mobile phones to desktop computers.
+- Interactive photo cards with titles and like buttons.
+- Clean and structured code adhering to BEM (Block Element Modifier) methodology.
+- Utilizes modern web technologies including HTML5, CSS3, and Normalize.css for cross-browser compatibility.
 
 ### Languages and Methods Utilized
 
-HTML5<br>
-CSS3<br>
-Normalize.css<br>
-BEM Methodology<br>
-Responsive Web Design<br>
+- HTML5
+- CSS3
+- Normalize.css
+- BEM Methodology
+- Responsive Web Design
 
 ### Usage
 
-Browse the gallery of photos.<br>
-Click the like button on any photo to interact with it.<br>
-Enjoy responsive design that adapts to different screen sizes.
+- Browse the gallery of photos.
+- Click the like button on any photo to interact with it.
+- Enjoy responsive design that adapts to different screen sizes.
 
 ### Directory Structure
 
