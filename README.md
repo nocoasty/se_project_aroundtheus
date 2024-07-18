@@ -71,9 +71,7 @@ Buttons have been given hover and active properties to make the entire site feel
 
 #### Example of Figma Project 3 Design Brief
 
-<img src="https://i.ibb.co/V9NMnDG/brief-main.png" alt="Figma Brief Main Design Image" width="300px">
-<img src="https://i.ibb.co/vhcyDrq/brief-mobile.png" alt="Figma Brief Mobile Design Image" width="300px">
-<img src="https://i.ibb.co/vB9gnn7/brief-ui.png" alt="Figma Brief Design UI Image" width="300px">
+<img src="https://i.ibb.co/V9NMnDG/brief-main.png" alt="Figma Brief Main Design Image" width="403px"> <img src="https://i.ibb.co/vhcyDrq/brief-mobile.png" alt="Figma Brief Mobile Design Image" width="49px"> <img src="https://i.ibb.co/vB9gnn7/brief-ui.png" alt="Figma Brief Design UI Image" width="185px">
 
 #### Example of responsive design properties
 
@@ -82,3 +80,7 @@ Buttons have been given hover and active properties to make the entire site feel
 #### Example of interactive buttons
 
 <img src="https://i.ibb.co/g7K7mJm/hover-prop.gif" alt="Hover Properties GIF">
+
+### Check it out yourself on GitHub
+
+<a href="https://www.github.com/nocoasty/se_project_aroundtheus">Click Here!</a>
