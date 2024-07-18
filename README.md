@@ -65,15 +65,15 @@ Buttons have been given hover and active properties to make the entire site feel
 
 #### Example of Figma Project 3 Design Brief
 
-<img src="https://i.ibb.co/V9NMnDG/brief-main.png" alt="Figma Brief Main Design Image" width="403px"> <img src="https://i.ibb.co/vhcyDrq/brief-mobile.png" alt="Figma Brief Mobile Design Image" width="49px"> <img src="https://i.ibb.co/vB9gnn7/brief-ui.png" alt="Figma Brief Design UI Image" width="185px">
+<img src="https://github.com/nocoasty/nocoasty_pub/blob/main/project_3_readme/brief_main.png?raw=true" alt="Figma Brief Main Design Image" height="400px"> <img src="https://github.com/nocoasty/nocoasty_pub/blob/main/project_3_readme/brief_mobile.png?raw=true" alt="Figma Brief Mobile Design Image" height="400px"> <img src="https://github.com/nocoasty/nocoasty_pub/blob/main/project_3_readme/brief_ui.png?raw=true" alt="Figma Brief Design UI Image" height="400px">
 
 #### Example of responsive design properties
 
-<img src="https://i.ibb.co/ws7jqG3/responsive-prop.gif" alt="Responsive Design Properties GIF">
+<img src="https://github.com/nocoasty/nocoasty_pub/blob/main/project_3_readme/responsive_prop.gif?raw=true" alt="Responsive Design Properties GIF">
 
 #### Example of interactive buttons
 
-<img src="https://i.ibb.co/g7K7mJm/hover-prop.gif" alt="Hover Properties GIF">
+<img src="https://github.com/nocoasty/nocoasty_pub/blob/main/project_3_readme/hover_prop.gif?raw=true" alt="Hover Properties GIF">
 
 ### Check it out yourself on GitHub
 
