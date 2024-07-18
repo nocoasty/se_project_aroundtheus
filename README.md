@@ -71,9 +71,9 @@ Buttons have been given hover and active properties to make the entire site feel
 
 ### Example of Figma Project 3 Design Brief
 
-<img src="https://i.ibb.co/V9NMnDG/brief-main.png" alt="Figma Brief Main Design Image">
-<img src="https://i.ibb.co/vhcyDrq/brief-mobile.png" alt="Figma Brief Mobile Design Image">
-<img src="https://i.ibb.co/vB9gnn7/brief-ui.png" alt="Figma Brief Design UI Image">
+<img src="https://i.ibb.co/V9NMnDG/brief-main.png" alt="Figma Brief Main Design Image" width="300px">
+<img src="https://i.ibb.co/vhcyDrq/brief-mobile.png" alt="Figma Brief Mobile Design Image" width="300px">
+<img src="https://i.ibb.co/vB9gnn7/brief-ui.png" alt="Figma Brief Design UI Image" width="300px">
 
 ### Example of responsive design properties
 
