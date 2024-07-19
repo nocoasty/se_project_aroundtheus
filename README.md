@@ -2,7 +2,7 @@
 
 ### Introduction
 
-"Project 3: Around the U.S." is a web design project showcasing the beauty of various locations across the United States through an engaging, responsive photo gallery. The layout is designed with CSS Grid and Flexbox for flexible and efficient arrangement of elements. 
+"Project 3: Around the U.S." is a web design project showcasing the beauty of various locations across the United States through an engaging, responsive photo gallery. The layout is designed with CSS Grid and Flexbox for flexible and efficient arrangement of elements.
 
 ### Features
 
@@ -75,11 +75,11 @@ Buttons have been given hover and active properties to make the entire site feel
 
 <img src="https://github.com/nocoasty/nocoasty_pub/blob/main/project_3_readme/hover_prop.gif?raw=true" alt="Hover Properties GIF">
 
-I took a stylistic executive decision to add ```::hover``` and ```::active``` properties to the interactive elements.
+I took a stylistic executive decision to add `::hover` and `::active` properties to the interactive elements.
 
 ### Check it out yourself on GitHub
 
-<a href="https://www.github.com/nocoasty/se_project_aroundtheus">Click Here</a> for the GitHub Repository.
+<a href="https://tripleten.com/trainer/web/lesson/07e0bdf0-d597-4a8f-8dda-eada84722122/?from=program ">Click Here</a> for the GitHub Repository.
 
 ### Video Walkthrough of Project 3
 
