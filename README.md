@@ -77,9 +77,9 @@ Buttons have been given hover and active properties to make the entire site feel
 
 I took a stylistic executive decision to add `::hover` and `::active` properties to the interactive elements.
 
-### Check it out yourself on GitHub
+### Check it out here
 
-<a href="https://tripleten.com/trainer/web/lesson/07e0bdf0-d597-4a8f-8dda-eada84722122/?from=program ">Click Here</a> for the GitHub Repository.
+<a href="https://nocoasty.github.io/se_project_aroundtheus/">Click Here</a> to view the project.
 
 ### Video Walkthrough of Project 3
 
