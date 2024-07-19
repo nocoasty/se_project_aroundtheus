@@ -38,16 +38,16 @@
 │ └── normalize.css
 ├── /images
 │ ├── logo-white.svg
-│ ├── jacques-cousteau.png
+│ ├── profile.png
 │ ├── edit-pencil.svg
 │ ├── add-vector.svg
 │ ├── like-icon.svg
-│ ├── yosemite.jpg
-│ ├── lake-louise.jpg
-│ ├── bald-mountains.jpg
-│ ├── latemar.jpg
-│ ├── vanoise.jpg
-│ └── lago.jpg
+│ ├── arches.jpg
+│ ├── grand_canyon.jpg
+│ ├── joshua_tree.jpg
+│ ├── superstition_mountain.jpg
+│ ├── torrecilla_baja.jpg
+│ └── boulder.png
 └── /blocks
 ├── page.css
 ├── header.css
@@ -67,14 +67,20 @@ Buttons have been given hover and active properties to make the entire site feel
 
 <img src="https://github.com/nocoasty/nocoasty_pub/blob/main/project_3_readme/brief_main.png?raw=true" alt="Figma Brief Main Design Image" height="400px"> <img src="https://github.com/nocoasty/nocoasty_pub/blob/main/project_3_readme/brief_mobile.png?raw=true" alt="Figma Brief Mobile Design Image" height="400px"> <img src="https://github.com/nocoasty/nocoasty_pub/blob/main/project_3_readme/brief_ui.png?raw=true" alt="Figma Brief Design UI Image" height="400px">
 
-#### Example of responsive design properties
+#### View the responsive design properties
 
 <img src="https://github.com/nocoasty/nocoasty_pub/blob/main/project_3_readme/responsive_prop.gif?raw=true" alt="Responsive Design Properties GIF">
 
-#### Example of interactive buttons
+#### View the interactive buttons
 
 <img src="https://github.com/nocoasty/nocoasty_pub/blob/main/project_3_readme/hover_prop.gif?raw=true" alt="Hover Properties GIF">
 
+I took a stylistic executive decision to add ```::hover``` and ```::active``` properties to the interactive elements.
+
 ### Check it out yourself on GitHub
 
-<a href="https://www.github.com/nocoasty/se_project_aroundtheus">Click Here!</a>
+<a href="https://www.github.com/nocoasty/se_project_aroundtheus">Click Here</a> for the GitHub Repository.
+
+### Video Walkthrough of Project 3
+
+<a href="https://drive.google.com/file/d/1oaBOlFidTwHtJA8eBsNWvXkFVKgDd84L/view?usp=sharing">Check it out here</a> on Google Drive.
